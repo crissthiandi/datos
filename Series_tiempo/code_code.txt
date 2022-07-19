@@ -1,1 +1,1 @@
-"goto_visuals"
+goto_visuals
