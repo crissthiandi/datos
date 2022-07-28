@@ -1,2 +1,2 @@
 code
-goto_visuals_off
+goto_visuals_on
